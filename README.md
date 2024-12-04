@@ -1,9 +1,9 @@
 # 👋 안녕하세요, 저는 안찬숙입니다!
 
 ## 🚀 About Me
-- 🌱 **Backend Developer**에 열정을 가지고 있습니다.
-- 💻 주로 **Java**, **Spring Boot**, **React**를 활용합니다.
-- 📚 새로운 기술을 배우고 도전하는 것을 즐깁니다.  
+🌱 **Backend Developer**에 열정을 가지고 있습니다.  
+💻 주로 **Java**, **Spring Boot**, **React**를 활용합니다.  
+📚 새로운 기술을 배우고 도전하는 것을 즐깁니다.  
 
 ## 🛠 기술 스택
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
