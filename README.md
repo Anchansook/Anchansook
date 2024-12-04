@@ -27,20 +27,20 @@ The Memorial Day' 케이크 상점과 사용자를 신뢰성 있게 연결하여
 - 버전 관리: Git
 ### 주요 기능:  
 #### 회원 관리  
-	- 일반 회원 및 사장님 회원 분리
-		- 일반 회원: 로그인, 회원가입, 아이디 찾기, 비밀번호 찾기
-		- 사장님 회원: 사업자 등록 번호 인증을 통한 회원 가입 및 로그인
+- 일반 회원 및 사장님 회원 분리
+	- 일반 회원: 로그인, 회원가입, 아이디 찾기, 비밀번호 찾기
+	- 사장님 회원: 사업자 등록 번호 인증을 통한 회원 가입 및 로그인
 #### 케이크 상점 정보 제공 및 주문
-	- 주문 제작 케이크 상점 정보 제공
-	- 상점별 상품 상세 정보 확인 및 주문 기능
+- 주문 제작 케이크 상점 정보 제공
+- 상점별 상품 상세 정보 확인 및 주문 기능
 #### 주문 및 결제 시스템
-	- 주문 상태 공유: 사장님과 회원 간의 주문 상태 실시간 확인
-	- 결제 기능: 안전한 결제 및 처리
+- 주문 상태 공유: 사장님과 회원 간의 주문 상태 실시간 확인
+- 결제 기능: 안전한 결제 및 처리
 #### 데이터 시각화
-	- Word Cloud 활용
-		- 사용자들이 많이 검색한 키워드
-		- 사장님들이 자주 적용하는 테마 시각화 
+- Word Cloud 활용
+	- 사용자들이 많이 검색한 키워드
+	- 사장님들이 자주 적용하는 테마 시각화 
 
 ## 🌐 소통해요!
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ckstnr1386@gmail.com)  
-[![Notion](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.notion.so/IT-45d92ee16baa41c6a3f59cc02d5c3b3c)
+[![Notion](https://img.shields.io/badge/Notion-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.notion.so/IT-45d92ee16baa41c6a3f59cc02d5c3b3c)
