@@ -14,7 +14,8 @@
 
 ## 📂 주요 프로젝트
 ## 🎂 **[The Memorial Day](https://github.com/TheMemorialDay)**
-### 설명: 온라인 케이크 상점 서비스입니다.
+### 소개:  
+The Memorial Day' 케이크 상점과 사용자를 신뢰성 있게 연결하여, 다양한 상점의 케이크를 인기 키워드를 바탕으로 실시간 추천합니다. 사용자들은 원하는 케이크를 쉽게 구매하고 리뷰와 평점을 남길 수 있으며, 상점 주인들은 상점과 상품을 다양하게 표현할 수 있습니다. 또한, 매출 관리 기능을 통해 시각적으로 매출 현황을 확인하고 효율적으로 관리할 수 있는 온라인 케이크 상점 서비스입니다.
 ### 개발 스택:  
 - 운영체제: Windows, macOS  
 - IDE: Visual Studio Code  
@@ -42,4 +43,4 @@
 
 ## 🌐 소통해요!
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ckstnr1386@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](링크 추가)
+[![Notion](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.notion.so/IT-45d92ee16baa41c6a3f59cc02d5c3b3c)
