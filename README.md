@@ -13,29 +13,29 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ## 📂 주요 프로젝트
-### 🛒 **[The Memorial Day](https://github.com/TheMemorialDay)**
-- **설명:** 온라인 케이크 상점 서비스입니다.
-- **개발 스택:**  
-운영체제: Windows, macOS  
-IDE: Visual Studio Code  
-프로그래밍 언어: Java, TypeScript, HTML, CSS    
-프레임워크: Spring Boot, React  
-데이터베이스: MySQL  
-API 통신: REST API  
-서버: Tomcat, Node.js  
-버전 관리: Git
-- **주요 기능:**  
-  1. 회원 관리  
+## 🎂 **[The Memorial Day](https://github.com/TheMemorialDay)**
+### 설명: 온라인 케이크 상점 서비스입니다.
+### 개발 스택:  
+- 운영체제: Windows, macOS  
+- IDE: Visual Studio Code  
+- 프로그래밍 언어: Java, TypeScript, HTML, CSS    
+- 프레임워크: Spring Boot, React  
+- 데이터베이스: MySQL  
+- API 통신: REST API  
+- 서버: Tomcat, Node.js  
+- 버전 관리: Git
+### 주요 기능:  
+#### 회원 관리  
 	- 일반 회원 및 사장님 회원 분리
 		- 일반 회원: 로그인, 회원가입, 아이디 찾기, 비밀번호 찾기
 		- 사장님 회원: 사업자 등록 번호 인증을 통한 회원 가입 및 로그인
-  2. 케이크 상점 정보 제공 및 주문
+#### 케이크 상점 정보 제공 및 주문
 	- 주문 제작 케이크 상점 정보 제공
 	- 상점별 상품 상세 정보 확인 및 주문 기능
-  3. 주문 및 결제 시스템
+#### 주문 및 결제 시스템
 	- 주문 상태 공유: 사장님과 회원 간의 주문 상태 실시간 확인
 	- 결제 기능: 안전한 결제 및 처리
-  4. 데이터 시각화
+#### 데이터 시각화
 	- Word Cloud 활용
 		- 사용자들이 많이 검색한 키워드
 		- 사장님들이 자주 적용하는 테마 시각화 
