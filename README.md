@@ -45,4 +45,3 @@
 
 ## 🌐 소통해요!
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ckstnr1386@gmail.com)  
-[![Notion](https://img.shields.io/badge/Notion-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.notion.so/IT-45d92ee16baa41c6a3f59cc02d5c3b3c)
