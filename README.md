@@ -43,5 +43,5 @@
 	- 사용자들이 많이 검색한 키워드
 	- 사장님들이 자주 적용하는 테마 시각화 
 
-## 🌐 소통해요!
+## 🌐 Contact
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ckstnr1386@gmail.com)  
